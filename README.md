@@ -73,4 +73,4 @@ This thesis demonstrates that neural networks, when trained to minimize PDE-base
 
 ---
 
-##National Technical University of Athens - Applied Mathematics and Physical Sciences
+## National Technical University of Athens - Applied Mathematics and Physical Sciences
