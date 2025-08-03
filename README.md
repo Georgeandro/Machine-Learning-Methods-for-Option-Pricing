@@ -1,4 +1,4 @@
-# Machine Learning Methods for Option Pricing
+l'# Machine Learning Methods for Option Pricing
 
 This repository contains the official implementation of my undergraduate thesis **"Machine Learning Methods for Option Pricing"**, focusing on solving partial differential equations (PDEs) that arise in financial models using **neural network methods**. The code is written in **PyTorch** and is optimized to run on **Google Colab** for ease of use and GPU acceleration.
 
@@ -31,28 +31,12 @@ A key feature is the use of **Time-Discrete Deep Gradient Flow (TDGF)**:
 
 ---
 
-## Repository Structure
 
-├── notebooks/
-│ ├── black_scholes_tdgf.ipynb # Black-Scholes model with TDGF
-│ ├── heston_tdgf.ipynb # Heston model with TDGF
-│ └── lifted_heston_tdgf.ipynb # Lifted Heston model with TDGF
-│
-├── models/
-│ ├── dgm_cell.py # Gated DGM-inspired neural network cell
-│ └── tdgf_net.py # Full TDGF network architecture
-│
-├── utils/
-│ ├── samplers.py # Data sampling utilities
-│ └── plotting.py # Plotting and visualization functions
-│
-└── README.md
 
 yaml
 Copy
 Edit
 
----
 
 ## Requirements
 
@@ -89,6 +73,4 @@ This thesis demonstrates that neural networks, when trained to minimize PDE-base
 
 ---
 
-## License
-
-This repository is released under the MIT License.
+##National Technical University of Athens - Applied Mathematics and Physical Sciences
