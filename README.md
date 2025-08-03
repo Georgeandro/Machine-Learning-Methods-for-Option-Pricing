@@ -1,4 +1,4 @@
-l'# Machine Learning Methods for Option Pricing
+# Machine Learning Methods for Option Pricing
 
 This repository contains the official implementation of my undergraduate thesis **"Machine Learning Methods for Option Pricing"**, focusing on solving partial differential equations (PDEs) that arise in financial models using **neural network methods**. The code is written in **PyTorch** and is optimized to run on **Google Colab** for ease of use and GPU acceleration.
 
