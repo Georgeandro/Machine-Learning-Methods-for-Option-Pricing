@@ -12,7 +12,6 @@ This thesis explores **deep learning-based approaches** for option pricing, leve
 We implement and compare methods applied to:
 - **Black-Scholes Model**
 - **Heston Stochastic Volatility Model**
-- **Lifted Heston Model**
 
 A key feature is the use of **Time-Discrete Deep Gradient Flow (TDGF)**:
 - **Time discretization**: the PDE is split into time steps.
